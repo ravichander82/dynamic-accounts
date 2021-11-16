@@ -5,7 +5,7 @@ google:
     requiredGroupMembership: []
     permissions: {}
     project: main-host-project-162535
-    jsonPath: /home/ravichander/.hal/default/staging/dependencies/1245227475-main-host-project-162535-fa5b55945795.json
+    jsonPath: /home/ravichander/.gcp/main-host-project-162535-fa5b55945795.json
     alphaListed: false
     imageProjects: []
     consul:
