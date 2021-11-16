@@ -1,7 +1,7 @@
 google:
   enabled: true
   accounts:
-  - name: spinnaker-gce-account
+  - name: my-gce-account
     requiredGroupMembership: []
     permissions: {}
     project: main-host-project-162535
