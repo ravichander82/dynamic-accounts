@@ -13,3 +13,8 @@ google:
       agentEndpoint: localhost
       agentPort: 8500
       datacenters: []
+ caching:
+  writeEnabled: false
+redis:
+  poll:
+    intervalSeconds: 300
