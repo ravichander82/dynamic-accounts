@@ -13,6 +13,18 @@ google:
       agentEndpoint: localhost
       agentPort: 8500
       datacenters: []
+  - name: my-gce-service-account
+    requiredGroupMembership: []
+    permissions: {}
+    project: service-project-326811
+    jsonPath: /home/ubuntu/.gcp/service-project-326811-0be6357415ba.json
+    alphaListed: false
+    imageProjects: []
+    consul:
+      enabled: false
+      agentEndpoint: localhost
+      agentPort: 8500
+      datacenters: []
 caching:
   writeEnabled: true
 redis:
