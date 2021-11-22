@@ -13,18 +13,6 @@ google:
       agentEndpoint: localhost
       agentPort: 8500
       datacenters: []
-  - name: my-gce-sub-service-account
-    requiredGroupMembership: []
-    permissions: {}
-    project: sub-service-243142
-    jsonPath: /home/ravichander/.gcp/sub-service-243142-c001d5aaa7ef.json
-    alphaListed: false
-    imageProjects: []
-    consul:
-      enabled: false
-      agentEndpoint: localhost
-      agentPort: 8500
-      datacenters: []
 caching:
   writeEnabled: true
 redis:
