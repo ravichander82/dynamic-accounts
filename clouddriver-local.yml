@@ -26,7 +26,7 @@ google:
       agentPort: 8500
       datacenters: []
 caching:
-  writeEnabled: false
+  writeEnabled: true
 redis:
   poll:
     intervalSeconds: 300
