@@ -17,7 +17,7 @@ google:
     requiredGroupMembership: []
     permissions: {}
     project: service-project-326811
-    jsonPath: /home/ubuntu/.gcp/service-project-326811-0be6357415ba.json
+    jsonPath: /home/ravichander/.gcp/service-project-326811-0be6357415ba.json
     alphaListed: false
     imageProjects: []
     consul:
